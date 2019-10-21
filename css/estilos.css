@@ -1,5 +1,5 @@
 		.cont {
-		        height: 100%;
+		    height: 100%;
 			width: 100%;
 			background: linear-gradient(141deg, #da1123 0%, #db1f6a 51%, #e82c94 75%);
 			color: white;
@@ -103,7 +103,7 @@
 		    padding-left: 55px;
 		    padding-right: 55px;
 		    padding-top: 47px;
-    		padding-bottom: 47px;
+    		
 		}
 
 		/*
@@ -114,8 +114,8 @@
 
 		.btn0 {
 		  	display:block;
-		  	height: 30px;
-		  	width: 30px;
+		  	height: 15px;
+		  	width: 15px;
 		  	border-radius: 100%;
 		  	background: linear-gradient(141deg, #da1123 0%, #db1f6a 51%, #e82c94 75%);
 		  	margin-top: 10px;		  	
@@ -123,8 +123,8 @@
 		
 		.btn1 {
 		  	display:block;
-		  	height: 30px;
-		  	width: 30px;
+		  	height: 15px;
+		  	width: 15px;
 		  	border-radius: 100%;
 		  	background: linear-gradient(141deg, #f7d456 0%, #eabc2c 51%, #ef9656 75%);
 		  	margin-top: 10px;
@@ -132,8 +132,8 @@
 
 		.btn2 {
 		  	display:block;
-		  	height: 30px;
-		  	width: 30px;
+		  	height: 15px;
+		  	width: 15px;
 		  	border-radius: 100%;
 		  	background: linear-gradient(141deg, #46b33f 0%, #6dda3b 51%, #61d479 75%);
 		  	margin-top: 10px;
@@ -141,8 +141,8 @@
 
 		.btn3 {
 		  	display:block;
-		  	height: 30px;
-		  	width: 30px;
+		  	height: 15px;
+		  	width: 15px;
 		  	border-radius: 100%;
 		  	background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
 		  	margin-top: 10px;
@@ -150,8 +150,8 @@
 
 		.btn4 {
 		  	display:block;
-		  	height: 30px;
-		  	width: 30px;
+		  	height: 15px;
+		  	width: 15px;
 		  	border-radius: 100%;
 		  	background: linear-gradient(141deg, #337ab7 0%, #337ab7 51%, #337ab7 75%);
 		  	margin-top: 10px;
